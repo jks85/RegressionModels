@@ -5,6 +5,4 @@ This repo currently contains my course project from the Regression Models course
 
 The project examines relationship between vehicle fuel efficiency (miles per gallon) and transmission (automatic vs manual). The data comes from the mtcars data set in R and all analysis is performed in R. The analysis includes exploratory data analysis, regression modeling, model selection and inference on regression coefficients.  
 
-***NOTE: the markdown document for the project does not currently have the plot images.
-
 In the future I may add other regression projects of my own to this repo.
